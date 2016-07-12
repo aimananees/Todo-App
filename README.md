@@ -3,21 +3,23 @@ An app that enables us to view,add,and delete todos when logged in with Facebook
 
 ### Homescreen:
 
-<img src = "https://cloud.githubusercontent.com/assets/16516636/16756434/a6e8e8a8-4822-11e6-94e8-09ed0183a7e5.png" width="150">
+<img src = "https://cloud.githubusercontent.com/assets/16516636/16774811/51f3b874-487b-11e6-8e24-9942d2918667.png" width="150">
 
 
 A basic Tableview with an "Add" and "Logout" button.It gives a list of all todos we have created.
 
-<img src = "https://cloud.githubusercontent.com/assets/16516636/16756384/514dba22-4822-11e6-90c3-b7522e7d55a1.png" width="150">
+<img src = "https://cloud.githubusercontent.com/assets/16516636/16774818/5d179ee6-487b-11e6-9e9a-5910cef54553.png" width="150">
 
 
 ### Add:
 This feature enables us to add a new todo with a title and note.
 
-<img src = "https://cloud.githubusercontent.com/assets/16516636/16756384/514dba22-4822-11e6-90c3-b7522e7d55a1.png" width="150">
+<img src = "https://cloud.githubusercontent.com/assets/16516636/16774832/6b21e172-487b-11e6-827f-8b53f9d863bc.png" width="150">
 
 
 ### Delete:
 This feature deletes the desired todo.
 
-<img src = "https://cloud.githubusercontent.com/assets/16516636/16756632/0f0bf8ac-4824-11e6-9326-55b6e063f1b8.png" width="150">
+<img src = "https://cloud.githubusercontent.com/assets/16516636/16774845/7465c21c-487b-11e6-8c8d-9e965d7c4508.png" width="150">
+
+
