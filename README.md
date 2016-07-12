@@ -1,7 +1,7 @@
 # Todo-App
 An app that enables us to view,add,and delete todos when logged in with Facebook.
 
-### Homescreen
+### Homescreen:
 
 <img src = "https://cloud.githubusercontent.com/assets/16516636/16756434/a6e8e8a8-4822-11e6-94e8-09ed0183a7e5.png" width="150">
 
@@ -11,13 +11,13 @@ A basic Tableview with an "Add" and "Logout" button.It gives a list of all todos
 <img src = "https://cloud.githubusercontent.com/assets/16516636/16756384/514dba22-4822-11e6-90c3-b7522e7d55a1.png" width="150">
 
 
-### Add
+### Add:
 This feature enables us to add a new todo with a title and note.
 
 <img src = "https://cloud.githubusercontent.com/assets/16516636/16756384/514dba22-4822-11e6-90c3-b7522e7d55a1.png" width="150">
 
 
-### Delete
+### Delete:
 This feature deletes the desired todo.
 
 <img src = "https://cloud.githubusercontent.com/assets/16516636/16756632/0f0bf8ac-4824-11e6-9326-55b6e063f1b8.png" width="150">
